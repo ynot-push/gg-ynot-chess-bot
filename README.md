@@ -1,4 +1,4 @@
-# YNOT Chess Engine
+# GG-YNOT CHESS ENGINE
 
 A C++ chess engine project built from scratch using a bitboard-based implementation for move generation, search, evaluation, and performance testing. The repository also contains a separate `ynot-web` demo app plus training tools for the NNUE evaluation pipeline.
 
